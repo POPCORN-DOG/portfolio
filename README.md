@@ -1,12 +1,14 @@
 # 김영진(YJ30)
 
+## Introduction
+2020년 통계청 빅데이터 통계과에서 근 1년 근로 후 채용 준비 중 입니다.
+
+2017년부터 비즈니스 통계학과에서 통계를 접하고 2018년부터 프로그래밍을 시작하였습니다. 
+
 ## Educations</n>
 - University of Hannam in Daejeon [Cumulative GPA: 3.84/4.5] <i>(*Expected graduation date 2021. 08)</i>
 - College of Economics/ Business Statistics</br>
 - Smart data expert training course, 2019 (R, Python, Hadoop-Hive, MySQL)
-
-## Work Experience
-2020년 현재 <a href="http://kostat.go.kr/portal/korea/kor_ko/5/2/9/4/index.action?pageNo=2&bmode=dept&ogId=1240478&emName=&chargeWork=">통계청 빅데이터 통계과</a> 기간제 근로하고 있습니다.
 
 ## skills
 R, Python, SQL
