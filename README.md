@@ -53,8 +53,8 @@ R, Python, SQL
 - <code>2020-07</code> <a href="">Wizely review data analysis</a> : 면도기업체 와이즐리 리뷰데이터 분석
 - <code>2020-09</code> <a href="">Daum-News web crawler</a> : 다음 뉴스 기사데이터 수집
 - <code>2020-10</code> <a href="">Naver-store web crawler</a> : 네이버쇼핑 옵션상품(2depth) 수집
-- <code>2020-11</code> <a href="">KAKAO & GOOGLE translator</a> : 카카오 구글 번역기
-- <code>2020-11</code> <a href="">Pypapago2</a> : Authorization Key 자동적용 papago 번역기
+- <code>2020-11</code> <a href="https://github.com/POPCORN-DOG/PYPAPAGO2">KAKAO & GOOGLE translator</a> : 카카오 구글 번역기
+- <code>2020-11</code> <a href="https://github.com/POPCORN-DOG/PYPAPAGO2">Pypapago2</a> : Authorization Key 자동적용 papago 번역기
 - <code>2020-12</code> <a href="">Product Classification</a> : LSTM 적용 품목분류기 (품목라벨링, Y/N)
 
 ## CODING BOOK Practice
